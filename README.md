@@ -2,7 +2,7 @@
 Understanding Human Feelings by the help of an Artificially Intellegent Analysis Process
 
 ## Details
-Creation of an Website Interface to get the Analysis on the Sentiments of a Customer Product with the help of Machine Learning and Natural Langusge Processing.
+Creation of an Website Interface to get the Analysis on the Sentiments of a Customer Product with the help of Machine Learning and Natural Language Processing.
 
 ## Solution Approach
 * Apply data-cleaning tachtics for conversion of a large dataset ending up in a Comma Separated File (CSV).
